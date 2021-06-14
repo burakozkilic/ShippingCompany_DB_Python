@@ -1,2 +1,0 @@
-# ShippingCompany_DB_Python
-ShippingCompany_DB_Python
